@@ -24,8 +24,9 @@
 ## Lab1-2 用Python學到國高中數學
 
 
+Plan
 
 
 ## Lab1-3 用Python實戰一下囉
 
-
+Plan
