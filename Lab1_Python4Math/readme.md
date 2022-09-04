@@ -20,3 +20,8 @@
 
 ![image](https://user-images.githubusercontent.com/89304181/187056306-8d7b85bf-c491-4f6e-ad4a-0a1e073fc21a.png)
 
+## Lab1-2 用Python學到國高中數學, 2022-09-04
+
+https://github.com/Grace-TA/PEA2022/blob/main/Lab1_Python4Math/Lab1-2_QucikLearnMath.md
+
+## Lab1-3 用Python實戰一下囉, P
