@@ -53,11 +53,11 @@
 
 ![image](https://user-images.githubusercontent.com/89304181/188302395-7eae2511-91e9-4e0c-aed7-e5085348489a.png)
 
-
+[Hint] Change the slope polarity.
 
 ![image](https://user-images.githubusercontent.com/89304181/188302401-ac21adc4-90a1-4dd4-a467-d2b49e84dabc.png)
 
-
+![image](https://user-images.githubusercontent.com/89304181/188303132-11ef3542-0a8e-4467-9bcd-a641061d9b62.png)
 
 ![image](https://user-images.githubusercontent.com/89304181/188302404-8cd27ee6-a749-44a2-aee2-bfb952b9851a.png)
 
