@@ -20,13 +20,3 @@
 
 ![image](https://user-images.githubusercontent.com/89304181/187056306-8d7b85bf-c491-4f6e-ad4a-0a1e073fc21a.png)
 
-
-## Lab1-2 用Python學到國高中數學
-
-
-Plan
-
-
-## Lab1-3 用Python實戰一下囉
-
-Plan
