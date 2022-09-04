@@ -51,15 +51,22 @@
 
 ## 回顧練習: 一起來試試這三個小練習囉!
 
+### 練習1
+
 ![image](https://user-images.githubusercontent.com/89304181/188302395-7eae2511-91e9-4e0c-aed7-e5085348489a.png)
 
-[Hint] Change the slope polarity.
+### [Hint] Change the slope polarity.
+
+### 練習2
 
 ![image](https://user-images.githubusercontent.com/89304181/188302401-ac21adc4-90a1-4dd4-a467-d2b49e84dabc.png)
 
 ![image](https://user-images.githubusercontent.com/89304181/188303132-11ef3542-0a8e-4467-9bcd-a641061d9b62.png)
 
+### 練習3
+
 ![image](https://user-images.githubusercontent.com/89304181/188302404-8cd27ee6-a749-44a2-aee2-bfb952b9851a.png)
 
+<img width="512" alt="image" src="https://user-images.githubusercontent.com/89304181/188311181-4521bdcf-aba4-4a29-8d9b-ca17d3cf5beb.png">
 
 
