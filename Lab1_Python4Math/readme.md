@@ -6,7 +6,7 @@ Reference: https://github.com/Grace-TA/PEA2022/blob/main/Lab1_Python4Math/Lab1-1
 
 ## Lab1-2 用Python學到國高中數學, 2022-09-04
 
-Reference: https://github.com/Grace-TA/PEA2022/blob/main/Lab1_Python4Math/Lab1-2_QucikLearnMath.md
+Reference: https://github.com/Grace-TA/PEA2022/blob/main/Lab1_Python4Math/Lab1-2_QuickLearnMath.md
 
 ## Lab1-3 用Python實戰一下囉, 2022-09-18
 
