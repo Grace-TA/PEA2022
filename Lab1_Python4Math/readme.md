@@ -1,7 +1,10 @@
 # Lab1: 起手式: 三週用Python學到國高中數學?
 
-![image](https://user-images.githubusercontent.com/89304181/190892281-7901fd94-fabc-406f-b2f4-7bc0c7fdeaab.png)
-
+<div align="center">
+     <img 
+      src="https://user-images.githubusercontent.com/89304181/190892281-7901fd94-fabc-406f-b2f4-7bc0c7fdeaab.png" 
+      width="50%" height="50%">
+    </div>    
 
 ## Lab1-1 Python 快速回顧 (Python Quick Review)
 
