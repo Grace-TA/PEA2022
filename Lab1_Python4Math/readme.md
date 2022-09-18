@@ -1,4 +1,4 @@
-# Lab1: 起手式: 兩週用Python學到國高中數學?
+# Lab1: 起手式: 三週用Python學到國高中數學?
 
 ## Lab1-1 Python 快速回顧 (Python Quick Review)
 
