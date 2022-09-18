@@ -6,4 +6,6 @@ Update: https://github.com/Grace-TA/PEA2022/blob/main/Lab1_Python4Math/Lab1-1_Py
 
 Update: https://github.com/Grace-TA/PEA2022/blob/main/Lab1_Python4Math/Lab1-2_QucikLearnMath.md
 
-## Lab1-3 用Python實戰一下囉, Plan
+## Lab1-3 用Python實戰一下囉, 2022-09-18
+
+https://github.com/Grace-TA/PEA2022/blob/main/Lab1_Python4Math/Lab1-3_Practice.md
