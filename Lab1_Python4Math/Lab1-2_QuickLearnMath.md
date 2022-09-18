@@ -57,6 +57,9 @@
 
 ### [Hint] Change the slope polarity.
 
+![image](https://user-images.githubusercontent.com/89304181/190889939-ba695b8d-7a60-4d63-9578-a3c271ad3de7.png)
+
+
 ### 練習2
 
 ![image](https://user-images.githubusercontent.com/89304181/188302401-ac21adc4-90a1-4dd4-a467-d2b49e84dabc.png)
