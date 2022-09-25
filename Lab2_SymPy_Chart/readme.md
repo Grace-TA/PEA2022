@@ -10,3 +10,4 @@ Link: https://github.com/Grace-TA/PEA2022/blob/main/Lab2_SymPy_Chart/Lab2-1_SymP
 
 ![image](https://user-images.githubusercontent.com/89304181/192123723-2b1b37e5-da3f-4e1f-aa8e-21aa68c553c7.png)
 
+Link: https://github.com/Grace-TA/PEA2022/blob/main/Lab2_SymPy_Chart/Lab2-2_Chart.md
