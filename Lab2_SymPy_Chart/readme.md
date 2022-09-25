@@ -4,7 +4,7 @@
 
 ![image](https://user-images.githubusercontent.com/89304181/192123704-a88db84b-dac4-44c8-8c1a-0f96d868c742.png)
 
-Link: https://github.com/Grace-TA/PEA2022/blob/main/Lab2_SymPy_Chart/Lab2_1-SymPy.md
+Link: https://github.com/Grace-TA/PEA2022/blob/main/Lab2_SymPy_Chart/Lab2-1_SymPy.md
 
 ## Lab 2-2 Matplotlib的工程圖形分析
 
