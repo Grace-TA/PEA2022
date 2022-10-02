@@ -1,5 +1,20 @@
 # Lab3: AI工程程式與實作 - 資料預測 &深度學習模型
 
+<a name="000"/>
+
+## 目錄(Table of Contents)
+
+[Lab 3-1 數據分析](#111)
+
+[Lab 3-2 實戰時刻! Let’s fight!](#222)
+
+[Lab3-3 如何零基礎入門深度學習?](#333)
+
+[Lab 3-4 數據集分割(訓練、驗證、測試)](#444)
+
+
+<a name="111"/>
+
 ## Lab 3-1 數據分析
 
 ### Pandas
@@ -16,6 +31,10 @@
 
 ![image](https://user-images.githubusercontent.com/89304181/193442556-c1094c9c-85ab-4d52-95cd-3b387a2da808.png)
 
+[return to content](#000) 
+
+<a name="222"/>
+
 ## Lab 3-2 實戰時刻! Let’s fight!
 
 ### 1. 對特定產品item (e.g., #1 ~ #10)求銷售總額??
@@ -25,7 +44,6 @@
 ### 2. 平均分店的銷售總額??
 
 ![image](https://user-images.githubusercontent.com/89304181/193442739-54a792db-3a7c-44cb-8c5f-e1e78bcd2a00.png)
-
 
 ### 3. 品項太多，只查單一產品item #12的銷售總額
 
@@ -38,6 +56,10 @@
 ### 5. 哪一家分店長準備走路? Ans: Store #7 (銷售總額最差!)
 
 ![image](https://user-images.githubusercontent.com/89304181/193442619-04f0f2a6-8647-4e61-8f8e-2ae95b566ee3.png)
+
+[return to content](#000) 
+
+<a name="333"/>
 
 ## Lab 3-3 如何零基礎入門深度學習?
 
@@ -53,4 +75,12 @@
 
 ![image](https://user-images.githubusercontent.com/89304181/193442933-ab0bff73-af61-4334-908a-c7ae4c49aa2d.png)
 
+[return to content](#000) 
 
+<a name="111"/><a name="444"/>
+
+##  Lab 3-4 數據集分割(訓練、驗證、測試)
+
+### Next Time ...
+
+[return to content](#000) 
