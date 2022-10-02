@@ -41,3 +41,16 @@
 
 ## Lab 3-3 如何零基礎入門深度學習?
 
+### 0. 把工作資料夾(所在目錄)設為課程資料夾，很重要!
+
+![image](https://user-images.githubusercontent.com/89304181/193442889-d8cea1ca-68a9-4592-b3bd-a4ac6c4c4755.png)
+
+### 1. 顯示圖形檔案.png & 下載手寫數字圖片到本機電腦: /0/10.png
+
+![image](https://user-images.githubusercontent.com/89304181/193442918-d7c334a7-8c25-4664-ba34-9e2768ea3402.png)
+
+### 2. 請選一個自己喜愛的數字; 並且在相同的數字下，看一下３張手寫數字圖片圖形檔案.png 的差異(e.g.,  在mist_png/testing/9/, 1000.png, 104.png, 12.png)
+
+![image](https://user-images.githubusercontent.com/89304181/193442933-ab0bff73-af61-4334-908a-c7ae4c49aa2d.png)
+
+
