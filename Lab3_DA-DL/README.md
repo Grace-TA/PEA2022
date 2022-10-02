@@ -47,7 +47,7 @@
 
 ### 3. 品項太多，只查單一產品item #12的銷售總額
 
-![image](https://user-images.githubusercontent.com/89304181/193442766-a85f7768-913b-4581-a620-c056e0c2b0b5.png)
+![image](https://user-images.githubusercontent.com/89304181/193443388-5cedf60d-ae11-4674-83e5-68902bb22542.png)
 
 ### 4. 狀況來了! BOSS現在就要看圖 : 那一個產品賣的好 os:有沒有搞錯91萬筆資料耶~ (debug). Ans: The best sale: #15! (最熱賣!)
 
