@@ -31,11 +31,11 @@
 
 ![image](https://user-images.githubusercontent.com/89304181/193442766-a85f7768-913b-4581-a620-c056e0c2b0b5.png)
 
-### 4. 狀況來了! BOSS現在就要看圖 : 那一個產品賣的好 os:有沒有搞錯91萬筆資料耶~ (debug)
+### 4. 狀況來了! BOSS現在就要看圖 : 那一個產品賣的好 os:有沒有搞錯91萬筆資料耶~ (debug). Ans: The best sale: #15! (最熱賣!)
 
 ![image](https://user-images.githubusercontent.com/89304181/193442608-7009a1ee-b124-4ad8-9480-97698984a289.png)
 
-### 5. 哪一家分店長準備走路?
+### 5. 哪一家分店長準備走路? Ans: Store #7 (銷售總額最差!)
 
 ![image](https://user-images.githubusercontent.com/89304181/193442619-04f0f2a6-8647-4e61-8f8e-2ae95b566ee3.png)
 
