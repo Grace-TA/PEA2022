@@ -81,7 +81,22 @@
 
 ##  Lab 3-4 AI深度學習三步曲: 訓練、驗證、測試
 
-### Next Time ...
+![image](https://user-images.githubusercontent.com/89304181/196022842-a5ede13d-b3b6-4923-ad15-a4179ee0a7b2.png)
+
+### 步驟 1. 資料集準備
+
+![image](https://user-images.githubusercontent.com/89304181/196023019-4c0b432e-1173-46c4-98bb-eb28fb41604e.png)
+
+### 步驟 2. 建模訓練 / 訓練
+
+![image](https://user-images.githubusercontent.com/89304181/196023040-6e7cff31-1204-48c8-9445-94a11fef0d0a.png)
+
+
+### 步驟 3. 預測未知 / 預測
+
+![image](https://user-images.githubusercontent.com/89304181/196023057-f0f11cf4-1ef1-43a3-aa1e-dfdac0425388.png)
+
+![image](https://user-images.githubusercontent.com/89304181/196023075-10ad531d-a6cf-43a0-a733-c2c7d611bbaa.png)
 
 [return to content](#000) 
 
