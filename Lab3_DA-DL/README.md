@@ -106,7 +106,7 @@
 
 ### 1. 顯示資料夾 樹狀結構, 確定完成資料的下載;並更新到你的GitHub實作中
 
-<img width="191" alt="image" src="https://user-images.githubusercontent.com/89304181/197371940-a4b8c9e3-6c42-433d-9d43-94b408391ced.png">
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/89304181/197371940-a4b8c9e3-6c42-433d-9d43-94b408391ced.png">
 
 ## 2. 實測數據!! 最後可試著到網路找3張微笑或不微笑的臉來試試
 
