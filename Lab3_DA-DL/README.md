@@ -104,6 +104,12 @@
 
 ## Lab 3-5 應用實作:  “微笑檢測應用於使用者滿意分析”
 
+### 顯示資料夾 樹狀結構, 確定完成資料的下載;並更新到你的GitHub實作中
+
+<img width="191" alt="image" src="https://user-images.githubusercontent.com/89304181/197371940-a4b8c9e3-6c42-433d-9d43-94b408391ced.png">
+
+### 人臉圖片預測微笑的程式
+
 ```python
 ## 人臉圖片預測微笑
 def DetectSmile(fn): # Rewrite by Horace, 2022.10.23
