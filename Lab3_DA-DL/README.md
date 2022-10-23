@@ -104,6 +104,44 @@
 
 ## Lab 3-5 應用實作:  “微笑檢測應用於使用者滿意分析”
 
-### Next Time ...
+```python
+## 人臉圖片預測微笑
+def DetectSmile(fn): # Rewrite by Horace, 2022.10.23
+  test_images = []
+  t_image = cv2.imread(fn) #2000 1000 
+  t_image = cv2.cvtColor(t_image, cv2.COLOR_BGR2GRAY)
+  t_image = cv2.resize(t_image,(60,64))
+  test_images.append(t_image)
+
+  plt.imshow(t_image)
+  test_images = np.asarray(test_images)
+  test_images = test_images.astype(np.float32) / 255.
+
+  test_images = np.expand_dims(test_images, axis=-1)
+  p = model.predict(np.array([test_images[0]]))[0]
+
+  print(p)
+  class_names = ["Neutral:中性","Smiling:微笑"]
+  bar_width = 50 #刻度寬度
+  left_count = int(p[1] * bar_width) #使用Smiling決定 左邊刻度
+  right_count = bar_width - left_count 
+  left_side = '-' * left_count #顯示左邊長度
+  right_side = '-' * right_count #顯示右邊長度
+  print (class_names[0], left_side + '<|>' + right_side, class_names[1])
+```
+
+## Smile Test 1
+
+<img width="343" alt="image" src="https://user-images.githubusercontent.com/89304181/197371744-261e9889-6476-4c23-915c-88988ade5f3f.png">
+
+## Smile Test 2
+
+<img width="341" alt="image" src="https://user-images.githubusercontent.com/89304181/197371762-c32a981d-1977-45ad-b4db-b18bb250b136.png">
+
+## Smile Test 3
+
+<img width="349" alt="image" src="https://user-images.githubusercontent.com/89304181/197371768-289310f1-d399-48ce-9f30-4b4ac7dcb127.png">
+
+
 
 [return to content](#000) 
