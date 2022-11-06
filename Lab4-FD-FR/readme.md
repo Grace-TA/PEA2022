@@ -29,7 +29,7 @@
 
 ![image](https://user-images.githubusercontent.com/89304181/200150254-6a437234-0cc2-4da9-840c-598b3eaa05d7.png)
 
-### 4. 5. 下載報告清單，寄給客戶, 上傳到GitHub
+### 4. 下載報告清單，寄給客戶, 上傳到GitHub
 
 ![image](https://user-images.githubusercontent.com/89304181/200150268-c4a7fb7a-042c-4939-934b-2e69a6b4133c.png)
 
