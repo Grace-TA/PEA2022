@@ -8,7 +8,8 @@
 
 ![image](https://user-images.githubusercontent.com/89304181/200150172-22df6e24-6838-4a91-9a31-d4297034b7be.png)
 
-![image](https://user-images.githubusercontent.com/89304181/200150182-6e9abd79-ccdd-452d-be68-87d73bc52077.png)
+![image](https://user-images.githubusercontent.com/89304181/200150922-3565dffc-19ea-41eb-ace0-f3d3ea9319d1.png)
+
 
 ## Lab 4-3 參考以上經驗與程式, 自選再加入1~2人(e.g., 比爾蓋茲, 伊隆馬斯克)
 
