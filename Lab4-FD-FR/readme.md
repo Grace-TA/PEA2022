@@ -36,11 +36,26 @@
 
 ## Lab 4-4 起手式 2: 準備 + 圖片中的人物標示
 
+### 完成下載後, 將影片上傳到video folder中
+
+![image](https://user-images.githubusercontent.com/89304181/201486293-6a12a536-a267-452b-8a05-0f8f6f0b83f1.png)
+
+### 從test folder中, 選一張你喜歡的其他圖片來測試一下
+
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/89304181/201486224-9c512afa-cd09-4e37-a742-7b01cd166459.png">
 
 ## Lab 4-5 影片中的人物識別
 
+### 統計關鍵人物在影片前3秒中,總共出現時間?
 
-## Lab 4-6 參考以上經驗與程式, 變更自選另2位關鍵人物 
+![image](https://user-images.githubusercontent.com/89304181/201486202-2bc0c7e9-883e-4067-be3f-25728c03ac35.png)
+
+### 人物出現的時間表
+
+![image](https://user-images.githubusercontent.com/89304181/201486139-8657e399-f345-4d19-9f2a-0d9de21d0e7c.png)
+
+
+## Lab 4-6 自我挑戰: 參考以上經驗與程式, 變更自選另2位關鍵人物 
 > 另建立資料夾 train1,test1,video1,output1 → 讓電腦幫我們工作, 可由影片識別人物，並輸出人物出現的時間表
 
 
