@@ -29,8 +29,9 @@ M5 = wikipedia.summary(ekw, auto_suggest=False)
 
 ## Lab 5-2 下載中文維基百科, 一起學習文章語料分詞和詞頻分析!
 
-
+![image](https://user-images.githubusercontent.com/89304181/202891337-693942dd-3fec-45a1-b8b3-8307e4ae57be.png)
 
 ## Lab 5-3 Your Show Time: 找一篇簡體文章或新聞 實作H1~H6
 
+![image](https://user-images.githubusercontent.com/89304181/202891353-933f20f3-fb60-4047-92b6-42cb41590710.png)
 
