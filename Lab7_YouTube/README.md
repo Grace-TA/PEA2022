@@ -6,7 +6,7 @@
 ![image](https://user-images.githubusercontent.com/89304181/204137635-2f2f2d2e-307b-4cc0-91ef-a3fa35dfb423.png)
 
 
-## Lab 7-2 , 如何自動擷取YouTube的字幕, 作成文字雲?
+## Lab 7-2 , 如何自動擷取YouTube的字幕, 作成文字雲呢?
 
 ### [工作EP6｜半導體製程工程師都在做什麼？｜請開啟ＣＣ字幕｜製程工程師的一天｜工程師書信英文｜台積電TSMC｜聯電 UMC｜工程師｜半導體｜](https://www.youtube.com/watch?v=ZbSpWEdMnQQ)
 
