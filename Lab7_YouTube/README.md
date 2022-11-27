@@ -10,8 +10,12 @@
 
 ![image](https://user-images.githubusercontent.com/89304181/204137652-0094487f-8615-456c-834c-36d92823d4b6.png)
 
-
-## Lab 7-3 Your Show Time: 找一個你喜歡的YouTube, 選一個你喜歡的Mask來試試, 實作Lab 7-2; 最後可試著用Open CV加入你的簽名喔.
-
+<img width="451" alt="image" src="https://user-images.githubusercontent.com/89304181/204138390-86a751bc-3021-4776-a2a9-e0e09adad3da.png">
 
 
+
+## Lab 7-3 Your Show Time: 找一個你喜歡的YouTube, 選一個你喜歡的Mask來試試, 實作Lab 7-2; 最後可試著加入你的簽名喔.
+
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/89304181/204138121-fec949b6-5396-4f87-b6f2-4e93b32b2d26.png">
+
+<img width="565" alt="image" src="https://user-images.githubusercontent.com/89304181/204138326-4b63cd05-f08e-4504-98d5-d16f6b3ab3a8.png">
