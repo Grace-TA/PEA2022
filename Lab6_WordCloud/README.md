@@ -23,4 +23,23 @@
 
 ## Lab 6-3 Your Show Time: 找一篇你喜歡的長文章或新聞, 選一個你喜歡的Mask來試試, 實作Lab 6-2.
 
-U
+### 1. 文章來源: https://news.cnyes.com/news/id/5019701
+
+### 2. 結果, but "台", "積電"被分開
+![image](https://user-images.githubusercontent.com/89304181/204124655-a42ebdfe-4e64-4c3e-9e34-804269b8dc24.png)
+
+## 3. 使用"自訂詞庫"
+
+![image](https://user-images.githubusercontent.com/89304181/204124791-62bf61d0-cdb7-4ac8-9cea-589c1110fdf0.png)
+
+
+````python
+text = open('news2.txt', "r",encoding="utf-8").read()  # ****** 讀文字資料 ******
+ 
+jieba.set_dictionary('dictionary/dict.txt.big.txt')
+
+jieba.load_userdict('dictionary/user_dict_test.txt')  #設定自訂詞庫
+
+````
+![image](https://user-images.githubusercontent.com/89304181/204124757-e7a2091e-0e61-4dcc-81eb-7e0bbdbd42ca.png)
+
