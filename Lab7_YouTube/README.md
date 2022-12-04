@@ -1,4 +1,4 @@
-# Lab7: AI工程程式與實作 - YouTube字幕分析
+# AI工程程式與實作 - Lab7: YouTube字幕分析
 
 
 ## Lab 7-1 溫故知新: 請用Lab6-3的新聞 + 新的文字雲Mask, 參考Lab6-2或Lab6-3實作, 作一個新Mask下的Work Cloud. Thanks!
