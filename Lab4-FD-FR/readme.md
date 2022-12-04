@@ -1,4 +1,4 @@
-# AI工程程式與實作 - Lab4: 人臉偵測與辨識 (Face Detection & Recognition)
+# Lab4: 人臉偵測與辨識 (Face Detection & Recognition)
 
 ## Lab 4-1 起手式 1: 準備 + 人臉辨識
 
